@@ -2,6 +2,7 @@
 
 const fs = require("fs");
 const path = require("path");
+const crypto = require("crypto");
 
 function generateRegistry() {
   const appsDir = path.join(__dirname, "..", "..", "apps");
@@ -40,11 +41,15 @@ function generateRegistry() {
         continue;
       }
 
+      const iconBuffer = fs.readFileSync(path.join(appDir, iconFileName))
+      const iconChecksum = crypto.createHash('md5').update(iconBuffer).digest("hex");
+
       registry.apps[appName] = {
         name: manifest.name,
         description: manifest.description,
         blockStyle: {
           iconUrl: `https://registry.useflows.com/core/apps/${appName}/${iconFileName}`,
+          iconChecksum: iconChecksum,
           color: manifest.color,
         },
         appMetadataUrl: `https://registry.useflows.com/core/apps/${appName}/versions.json`,
