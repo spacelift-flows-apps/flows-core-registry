@@ -1,0 +1,5 @@
+{
+  "name": "Microsoft SQL Server",
+  "description": "Execute queries, manage data, and interact with Microsoft SQL Server databases directly from your flows. Can be paired with a private agent to access databases in private networks.",
+  "color": "#0078D4"
+}
