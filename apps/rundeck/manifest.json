@@ -1,0 +1,5 @@
+{
+  "name": "Rundeck",
+    "description": "Rundeck integration with job execution and real-time execution status tracking.",
+  "color": "#f91629"
+}
