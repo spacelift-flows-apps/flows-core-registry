@@ -1,0 +1,6 @@
+{
+  "name": "MongoDB",
+  "description": "Execute queries, manage data, and interact with MongoDB databases directly from your flows. Can be paired with a private agent to access databases in private networks.",
+  "color": "#00684A"
+}
+
