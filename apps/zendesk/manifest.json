@@ -1,6 +1,6 @@
 {
   "name": "Zendesk",
-  "description": "Manage tickets, users, and organizations in Zendesk. Create, update, and search support tickets, and automate customer service workflows directly from your flows.",
+  "description": "Manage tickets in Zendesk. Create, update, and search support tickets, and automate customer service workflows directly from your flows.",
   "color": "#03363D"
 }
 
