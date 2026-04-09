@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - Bedrock Runtime",
+  "description": "A collection of blocks representing low-level API calls for AWS Bedrock Runtime.",
+  "color": "#01A88D"
+}
