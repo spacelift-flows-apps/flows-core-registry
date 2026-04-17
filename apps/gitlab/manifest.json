@@ -1,0 +1,5 @@
+{
+  "name": "GitLab",
+  "description": "Integrate with GitLab's API to enable repository management, issue tracking, and collaboration features.",
+  "color": "#fca326"
+}
