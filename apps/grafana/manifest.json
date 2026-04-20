@@ -1,0 +1,5 @@
+{
+  "name": "Grafana",
+  "description": "Grafana integration for monitoring and alerting. Query data sources and manage alerts",
+  "color": "#F05A28"
+}
