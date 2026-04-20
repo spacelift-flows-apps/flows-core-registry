@@ -1,0 +1,5 @@
+{
+  "name": "Prometheus",
+  "description": "Prometheus integration for monitoring and alerting. Query metrics, manage alerts, and integrate Prometheus workflows with your DevOps automation.",
+  "color": "#e6522c"
+}
