@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - Auto Scaling",
+  "description": "A collection of blocks representing low-level API calls for AWS Auto Scaling.",
+  "color": "#e7157b"
+}
