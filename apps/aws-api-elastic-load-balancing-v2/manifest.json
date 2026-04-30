@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - Elastic Load Balancing v2",
+  "description": "A collection of blocks representing low-level API calls for AWS Elastic Load Balancing v2.",
+  "color": "#8c4fff"
+}

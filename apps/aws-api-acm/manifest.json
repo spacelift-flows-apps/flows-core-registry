@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - Certificate Manager",
+  "description": "A collection of blocks representing low-level API calls for AWS Certificate Manager.",
+  "color": "#dd344c"
+}

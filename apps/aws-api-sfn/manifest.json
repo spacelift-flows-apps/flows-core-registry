@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - Step Functions",
+  "description": "A collection of blocks representing low-level API calls for AWS Step Functions.",
+  "color": "#e7157b"
+}
