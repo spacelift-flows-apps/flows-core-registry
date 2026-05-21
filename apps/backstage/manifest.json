@@ -1,0 +1,5 @@
+{
+  "name": "Backstage",
+  "description": "Integrate with Backstage Software Templates to trigger Flows from Backstage. Register entrypoint blocks as templates with customizable form parameters and automatic catalog synchronization.",
+  "color": "#404040"
+}
