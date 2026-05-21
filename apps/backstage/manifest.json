@@ -1,0 +1,5 @@
+{
+  "name": "Backstage",
+  "description": "Integrate with Backstage Software Templates to trigger Flows workflows from Backstage's Create page. Register entrypoint blocks as templates with customizable form parameters, automatic catalog synchronization, and real-time validation of incoming requests.",
+  "color": "#404040"
+}
