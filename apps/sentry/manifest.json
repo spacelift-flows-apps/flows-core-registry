@@ -1,0 +1,5 @@
+{
+  "name": "Sentry",
+  "description": "Integrate with Sentry error tracking. Automate incident response and error triage by managing and subscribing to issue updates.",
+  "color": "#452650"
+}
