@@ -1,0 +1,5 @@
+{
+  "name": "OpenAI",
+  "description": "Generate text and run tool-using agents with OpenAI models. Supports structured output and custom and remote MCP tools.",
+  "color": "#000000"
+}
