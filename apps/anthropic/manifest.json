@@ -1,5 +1,5 @@
 {
   "name": "Anthropic",
-  "description": "Automate repository management, issue tracking, and pull request workflows. Create issues, update PRs, manage releases, and sync repository status directly from your workflows. Perfect for deployment notifications, automated issue creation from incidents, and keeping development workflows synchronized with operations.",
+  "description": "Generate messages and run tool-using agents with Claude models. Supports structured output and custom and remote MCP tools.",
   "color": "#c96240"
 }
